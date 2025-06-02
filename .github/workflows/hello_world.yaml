@@ -10,4 +10,4 @@ on:
        - name: checkout code
        uses: actions/checkout@v3
        - name: Print message
-       run: echooo "Hello world GA Testing"
+       run: echo "Hello world GA Testing"
